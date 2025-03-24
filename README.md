@@ -53,6 +53,7 @@ Feel free to fork the repo and contribute to enhancements. Open an issue for dis
 
 ## 📜 License
 This project is open-source under the **MIT License**.
+**Copyright (c) 2025 Maviyakaif**
 
 ---
 📧 For queries, reach out at **maviyakaif@gmail.com**
